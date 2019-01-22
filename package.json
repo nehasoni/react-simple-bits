@@ -1,0 +1,22 @@
+{
+  "name": "react-simple-bits",
+  "version": "1.0.0",
+  "description": "Simple react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehasoni/react-simple-bits.git"
+  },
+  "author": "Neha Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehasoni/react-simple-bits/issues"
+  },
+  "homepage": "https://github.com/nehasoni/react-simple-bits#readme",
+  "devDependencies": {
+    "react": "^16.7.0"
+  }
+}
