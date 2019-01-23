@@ -1,2 +1,2 @@
-# react-simple-bits
+# react-simple-blocks
 Simple react components
